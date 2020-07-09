@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PerfectICONV",
+        "repositoryURL": "https://github.com/PerfectSideRepos/Perfect-ICONV.git",
+        "state": {
+          "branch": null,
+          "revision": "9158e26559b7e33eff6b9bd890fd1e80134dd3af",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "PerfectLDAP",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-LDAP.git",
+        "state": {
+          "branch": null,
+          "revision": "e351ef5b9497265f9498555820e408e57f00f950",
+          "version": "3.0.2"
+        }
+      },
+      {
+        "package": "SASL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-libSASL.git",
+        "state": {
+          "branch": null,
+          "revision": "22dca7e03160de0a307927d7072361d1fd80436d",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "OpenLDAP",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-OpenLDAP.git",
+        "state": {
+          "branch": null,
+          "revision": "3c0ba5dfecca166180a8f9f637a1b04e540a105b",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
